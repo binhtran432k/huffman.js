@@ -1,0 +1,15 @@
+{
+	"name": "huffman.js",
+	"module": "src/index.js",
+	"type": "module",
+	"scripts": {
+		"bench": "node ./bench/bench.js"
+	},
+	"devDependencies": {
+		"@types/bun": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5.0.0"
+	}
+}
+
